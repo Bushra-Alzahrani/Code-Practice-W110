@@ -190,12 +190,13 @@ top: 550px;
   
     margin-right: 7em;
 }
-.b22{
+.b22 p{
     width: 300px;
     font-family: 'Cormorant Infant';
     color: white;
     margin-top: 10px;
     margin-left: 5px;
+    font-size: larger;
 
 }
 .b13{
@@ -217,13 +218,13 @@ top: 550px;
     display:flex;
     
 }
-.b44{
+.b44 p{
     width: 300px;
     font-family: 'Cormorant Infant';
     color: white;
     margin-top: 10px;
     margin-left: 5px;
-    
+    font-size: larger;
     
 
 }
@@ -252,8 +253,8 @@ top: 610px;
 .b16{
     display:flex;
 }
-.b77{
-    width: 300px;
+.b77 p{
+    font-size: larger;
     font-family: 'Cormorant Infant';
     color: white;
     margin-top: 10px;
@@ -262,8 +263,7 @@ top: 610px;
 }
 .b18{
     position: absolute;
-width: 50px;
-height: 50px;
+
 left: 300px;
 top: 610px;
 
@@ -277,9 +277,8 @@ top: 610px;
 .b18{
     display:flex;
 }
-.b99{
-    width: 135px;
-    height: 70px;
+.b99 p{
+   font-size: larger;
     font-family: 'Cormorant Infant';
     color: white;
     margin-top: 10px;
