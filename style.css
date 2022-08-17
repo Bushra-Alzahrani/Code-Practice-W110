@@ -12,7 +12,7 @@ body{
     ),
     url(bac.png),
     linear-gradient(0deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1));
-  overflow-x: hidden;
+ overflow-x: hidden;
 }
 .nav{
     
@@ -187,6 +187,8 @@ top: 550px;
 }
 .b12{
     display:flex;
+  
+    margin-right: 7em;
 }
 .b22{
     width: 300px;
@@ -209,9 +211,11 @@ top: 550px;
     width: 50px;
     height: 50px;
     border-radius: 70px;
+    
 }
 .b13{
     display:flex;
+    
 }
 .b44{
     width: 300px;
@@ -219,10 +223,15 @@ top: 550px;
     color: white;
     margin-top: 10px;
     margin-left: 5px;
+    
+    
 
 }
 .r1{
     display: flex;
+    margin-left: 7em;
+    margin-top: 50px;
+
 }
 
 
@@ -279,6 +288,7 @@ top: 610px;
 }
 .r2{
     display: flex;
+   
 }
 .box1{
     position: absolute;
@@ -286,7 +296,7 @@ top: 610px;
     height: 246px;
     left: 150px;
     top: 778px;
-    
+    margin-right: 7em;
     background: rgba(12, 16, 119, 0.5);
 }
 
@@ -381,8 +391,6 @@ height: 50px;
     padding-left: 20px;
     padding-top: 10px;
 }
-
-
 
 
 
