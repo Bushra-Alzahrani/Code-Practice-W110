@@ -12,9 +12,7 @@ body{
     ),
     url(bac.png),
     linear-gradient(0deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1));
-  background-size: 100% 100%;
-  width: 1440px;
-  height: 1024px;
+ 
 }
 .nav{
     
